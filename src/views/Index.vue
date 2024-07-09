@@ -111,7 +111,7 @@ onMounted(() => {
   load(
     route.query.s ||
       localStorage.getItem("tvlistUrl") ||
-      "https://ghproxy.com/https://raw.githubusercontent.com/goolguy007/radioer/main/TVradio"
+      "https://ghproxy.com/https://raw.githubusercontent.com/cee-tv/Chinatv/main/Tvonline.txt"
   );
 });
 </script>
